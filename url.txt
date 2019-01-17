@@ -5,4 +5,4 @@
 5.w3ctech前端社区：https://www.w3ctech.com/
 6.凹凸实验室-前端，全栈，IOS，Android：https://aotu.io/
 7.百度自定义建站：https://aipage.baidu.com/
-8.百度图标接口：http://echarts.baidu.com/
+8.百度图表接口：http://echarts.baidu.com/
